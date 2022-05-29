@@ -1,0 +1,4 @@
+/home/czc/qt_first/qt_7/CMakeFiles/qt.dir
+/home/czc/qt_first/qt_7/CMakeFiles/edit_cache.dir
+/home/czc/qt_first/qt_7/CMakeFiles/rebuild_cache.dir
+/home/czc/qt_first/qt_7/CMakeFiles/qt_autogen.dir
